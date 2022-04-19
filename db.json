@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Martin Wietzel",
+      "position": "Pope",
+      "Quote": "Emotional damage",
+      "addressId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Florian Hauser",
+      "position": "General 1",
+      "Quote": "Battery low",
+      "addressId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Alexander Krieger",
+      "position": "General 2",
+      "Quote": "Car's broken",
+      "addressId": "3"
+    },
+    {
+      "id": "4",
+      "name": "Birru Hayyu",
+      "position": "Farmer",
+      "Quote": "Ja wohl",
+      "addressId": "1"
+    },
+    {
+      "name": "Super Woman",
+      "id": "FwqqSgi"
+    }
+  ],
+  "addresses": [
+    {
+      "name": "Saarbrücken",
+      "id": "1"
+    },
+    {
+      "name": "Friedrichstal",
+      "id": "2"
+    },
+    {
+      "name": "Neukirchen",
+      "id": "3"
+    }
+  ]
+}
